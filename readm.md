@@ -1,6 +1,6 @@
 # Analog Clock entirely in code.
 
-<img src="" alt="clock">
+<img src="https://raw.githubusercontent.com/losanthiago/analogic-clock/master/analogicclock.png" alt="clock">
 
 Analog clock using only HTML, CSS and Javascript, no image was inserted inside the code.
 Project built with intuition to train skills and addition to the portfolio.
